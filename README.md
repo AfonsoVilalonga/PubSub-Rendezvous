@@ -12,6 +12,7 @@ This repository holds the code for the paper "Looking at the Clouds: Leveraging 
 	url = {https://www.petsymposium.org/foci/2024/foci-2024-0010.pdf},
 }
 ```
+**Disclaimer**: This artifact is a proof of concept and is not a production-ready system suitable for real-world use or deployment.
 
 ## Configuration
 To test our system, you need a free Google Cloud Platform account and some preliminary configurations. Specifically:
